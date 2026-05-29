@@ -1,8 +1,10 @@
-# SaurabhKulkarni.co | Platform Architecture
+# Saurabh Kulkarni Personal Branding | Platform Architecture
 
 A high-performance personal brand platform engineered for conversion, SEO optimization, and seamless content delivery.
 
 ### 🚀 Overview
+<img width="1536" height="1024" alt="EgA9MV57AuBMZ7uy09wHU9UBE" src="https://github.com/user-attachments/assets/7a764d15-09ce-413c-8a3d-7045159bb0ad" />
+
 The Saurabh Kulkarni platform was designed as a scalable bridge between personal branding and automated business processes. By leveraging a robust CMS (WordPress) and custom-engineered automation pipelines, this platform turns traffic into actionable business leads.
 
 ### Technical Architecture
